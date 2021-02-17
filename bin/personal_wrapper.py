@@ -1,12 +1,12 @@
-#!/usr/bin/python3
+#!/usr/local/bin/python3.8
 import os
 import sys
 import getpass
 import random
 import shutil
 
-if os.path.exists('/GPFS/CENTRAL/XF17ID2/sclark1/puck_visualization_system/puck_visualization/bin'):
-    root_dir = '/GPFS/CENTRAL/XF17ID2/sclark1/puck_visualization_system/puck_visualization/bin'
+if os.path.exists('/home/samuel/Desktop/Classes/CSC_300/puck_visualization_system/puck_visualization_program/bin'):
+    root_dir = '/home/samuel/Desktop/Classes/CSC_300/puck_visualization_system/puck_visualization_program/bin'
 else:
     raise RuntimeError('ROOT DIRECTORY DOES NOT EXIST')
 
@@ -40,4 +40,3 @@ for my_file in files:
     filepath = tmp_dir + '/' + my_file
     print('Predicting Image: {}'.format(my_file))
     predict_image(filepath)
-
