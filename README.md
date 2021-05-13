@@ -1,13 +1,13 @@
 # Puck Visualization
 
-Designed by Samuel M. Clark, Herbert J. Bernstein, Edwin Lazo
-Copyright 01 Jun 2020, Samuel M. Clark
-as a copyleft for the GPL and LGPL
+# Designed by Samuel M. Clark, Herbert J. Bernstein, Edwin Lazo
+# Copyright 01 Jun 2020, Samuel M. Clark
+# as a copyleft for the GPL and LGPL
 
- YOU MAY REDISTRIBUTE THE PUCK_VISUALIZATION PACKAGE UNDER THE TERMS OF THE GPL
+# YOU MAY REDISTRIBUTE THE PUCK_VISUALIZATION PACKAGE UNDER THE TERMS OF THE GPL
                      
- ALTERNATIVELY YOU MAY REDISTRIBUTE THE PUCK_VISUALIZATION API UNDER THE TERMS
- OF THE LGPL
+ # ALTERNATIVELY YOU MAY REDISTRIBUTE THE PUCK_VISUALIZATION API UNDER THE TERMS
+ # OF THE LGPL
 
 /*************************** GPL NOTICES ******************************
  *                                                                    *
