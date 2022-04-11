@@ -1,2 +1,0 @@
-# Puck Visualization
-
