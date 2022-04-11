@@ -1,0 +1,590 @@
+Good_Cap Directory
+
+Image: puck_C_2313_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_090_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2313_position_1.jpg 
+Prediction: Good Cap
+
+Image: puck_C_074_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_090_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_093_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_080_position_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2316_position_15.jpg 
+Prediction: Bad Cap
+
+Image: puck_C_085_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_093_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_083_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_080_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_092_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_083_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_ALScaps_95_position_5.jpg 
+Prediction: Good Cap
+
+Image: puck_C_076_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_077_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_3534_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_092_position_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_074_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_076_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_073_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_077_position_14.jpg 
+Prediction: Good Cap
+
+Image: puck_C_091_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_092_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_086_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_ALScaps_95_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_083_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_075_position_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_073_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_093_position_13.jpg 
+Prediction: Good Cap
+
+Image: puck_C_bentPins_silverCaps_92_position_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_1502_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4723_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_082_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_ALScaps_95_position_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_076_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_087_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2313_position_2.jpg 
+Prediction: Good Cap
+
+Image: sclark1_006_7.jpg 
+Prediction: Good Cap
+
+Image: sclark1_006_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_079_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_073_position_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_3534_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2316_position_11.jpg 
+Prediction: Bad Cap
+
+Image: puck_C_080_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4904_6.jpg 
+Prediction: Bad Cap
+
+Image: puck_C_1722_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_086_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_073_position_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_078_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_081_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_077_position_16.jpg 
+Prediction: Good Cap
+
+Image: sclark1_011_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2316_position_7.jpg 
+Prediction: Bad Cap
+
+Image: puck_C_075_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_082_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_092_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_080_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_089_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_090_position_5.jpg 
+Prediction: Good Cap
+
+Image: puck_C_089_position_5.jpg 
+Prediction: Good Cap
+
+Image: puck_C_081_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_078_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_silverCaps_96_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_089_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_086_position_13.jpg 
+Prediction: Good Cap
+
+Image: puck_C_091_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_081_position_5.jpg 
+Prediction: Good Cap
+
+Image: puck_C_077_position_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_074_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4716_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_10.jpg 
+Prediction: Good Cap
+
+Image: sclark1_011_14.jpg 
+Prediction: Good Cap
+
+Image: puck_C_079_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_1502_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_084_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_13.jpg 
+Prediction: Good Cap
+
+Image: puck_C_089_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_076_position_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_079_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_089_position_11.jpg 
+Prediction: Good Cap
+
+Image: sclark1_011_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_bentPins_silverCaps_92_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4904_1.jpg 
+Prediction: Bad Cap
+
+Image: puck_C_086_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_074_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_090_position_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_gunMetalCaps_96_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_079_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_3534_5.jpg 
+Prediction: Bad Cap
+
+Image: puck_C_1722_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_092_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_079_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_082_position_14.jpg 
+Prediction: Good Cap
+
+Image: puck_C_1722_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_084_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4904_5.jpg 
+Prediction: Bad Cap
+
+Image: puck_C_1502_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_080_position_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_091_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_silverCaps_96_position_13.jpg 
+Prediction: Good Cap
+
+Image: puck_C_088_position_14.jpg 
+Prediction: Good Cap
+
+Image: sclark1_011_8.jpg 
+Prediction: Good Cap
+
+Image: sclark1_006_2.jpg 
+Prediction: Bad Cap
+
+Image: puck_C_075_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_073_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_074_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_086_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_073_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_1722_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_088_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_1.jpg 
+Prediction: Good Cap
+
+Image: sclark1_006_5.jpg 
+Prediction: Bad Cap
+
+Image: puck_C_073_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_5.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_gunMetalCaps_96_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_075_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_088_position_5.jpg 
+Prediction: Good Cap
+
+Image: puck_C_081_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4723_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_082_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_12.jpg 
+Prediction: Good Cap
+
+Image: sclark1_016_14.jpg 
+Prediction: Good Cap
+
+Image: puck_C_078_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_gunMetalCaps_96_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_076_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_085_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_085_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_gunMetalCaps_96_position_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_gunMetalCaps_96_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_ALScaps_95_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2316_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4904_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_083_position_14.jpg 
+Prediction: Good Cap
+
+Image: sclark1_017_1.jpg 
+Prediction: Good Cap
+
+Image: puck_C_1722_position_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_083_position_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_091_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2313_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_087_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_ALScaps_95_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_077_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_086_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_073_position_5.jpg 
+Prediction: Good Cap
+
+Image: puck_C_090_position_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4723_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_077_position_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_081_position_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2316_position_1.jpg 
+Prediction: Good Cap
+
+Image: puck_C_079_position_1.jpg 
+Prediction: Good Cap
+
+Image: puck_C_076_position_5.jpg 
+Prediction: Good Cap
+
+Image: puck_C_080_position_16.jpg 
+Prediction: Good Cap
+
+Image: sclark1_006_1.jpg 
+Prediction: Good Cap
+
+Image: puck_C_1502_position_7.jpg 
+Prediction: Good Cap
+
+Image: puck_C_3534_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2316_position_14.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_silverCaps_96_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_090_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_083_position_16.jpg 
+Prediction: Good Cap
+
+Image: puck_C_073_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_081_position_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_092_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_085_position_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4723_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_093_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_4723_8.jpg 
+Prediction: Good Cap
+
+Image: sclark1_011_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_087_position_2.jpg 
+Prediction: Good Cap
+
+Image: puck_C_tiltedCaps_silverCaps_96_position_13.jpg 
+Prediction: Good Cap
+
+Image: puck_C_090_position_14.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_B5Rcaps_94pct_filling_position_15.jpg 
+Prediction: Good Cap
+
+Image: puck_C_079_position_4.jpg 
+Prediction: Good Cap
+
+Image: puck_C_004_dewarFull_position_4.jpg 
+Prediction: Good Cap
+
+Image: sclark1_001_3.jpg 
+Prediction: Good Cap
+
+Image: puck_C_076_position_13.jpg 
+Prediction: Good Cap
+
+Image: puck_C_078_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_079_position_13.jpg 
+Prediction: Good Cap
+
+Image: puck_C_082_position_8.jpg 
+Prediction: Good Cap
+
+Image: puck_C_079_position_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_2313_position_6.jpg 
+Prediction: Good Cap
+
+Image: puck_C_082_position_10.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_ALScaps_95_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_082_position_13.jpg 
+Prediction: Good Cap
+
+Image: puck_C_092_position_5.jpg 
+Prediction: Good Cap
+
+Image: puck_C_089_position_12.jpg 
+Prediction: Good Cap
+
+Image: puck_C_085_position_13.jpg 
+Prediction: Good Cap
+
+Image: sclark1_011_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_086_position_11.jpg 
+Prediction: Good Cap
+
+Image: puck_C_073_position_9.jpg 
+Prediction: Good Cap
+
+Image: puck_C_fullPuck_gunMetalCaps_96_position_14.jpg 
+Prediction: Good Cap
+
+Bad Caps: 9 
+Good Caps: 186
+Real Time Accuracy: 0.9538461538461539

@@ -1,0 +1,53 @@
+# def create_features(img):
+#     color_features = img.flatten()
+#     features = hog(img, block_norm='L2-Hys', pixels_per_cell=(16,16))
+#     flat_features = np.hstack(color_features)
+#     return flat_features
+
+# def create_feature_matrix(label_dataframe):
+#     features_list = []
+#     img_path = os.path.join(base_dir, 'train')
+#     for category in categories:
+#         category_img_path = os.path.join(img_path, category)
+#         for image in os.listdir(category_img_path):
+#             my_image = os.path.join(category_img_path, image)
+#             img = cv2.imread(my_image)
+#             image_features = create_features(img)
+#             features_list.append(image_features)
+    
+#     feature_matrix = np.array(features_list)
+#     return feature_matrix
+
+# feature_matrix = create_feature_matrix(categories)
+# ss = StandardScaler()
+# image_stand = ss.fit_transform(feature_matrix)
+
+# pca = PCA(n_components=500)
+
+# image_pca = ss.fit_transform(image_stand)
+# print(image_pca.shape)
+
+
+####################################################################################################################################33
+
+# train_path = os.path.join(base_dir, 'train')
+# test_path = os.path.join(base_dir, 'test')
+
+# train_empty = os.path.join(train_path, categories[0])
+# train_puck = os.path.join(train_path, categories[1])
+
+# test_empty = os.path.join(test_path, categories[0])
+# test_puck = os.path.join(test_path, categories[1])
+
+# x_train = [os.path.join(train_empty, img) for img in os.listdir(train_empty)]
+# y_train = [os.path.join(train_puck, img) for img in os.listdir(train_puck)]
+
+# x_test = [os.path.join(test_empty, img) for img in os.listdir(test_empty)]
+# y_test = [os.path.join(test_puck, img) for img in os.listdir(test_puck)]
+
+# x_train_images = [cv2.imread(img) for img in x_train]
+# y_train_images = [cv2.imread(img) for img in y_train]
+
+# classifier = svm.SVC(gamma=0.001)
+
+# classifier.fit(x_train_images, y_train_images)
