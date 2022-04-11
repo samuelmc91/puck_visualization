@@ -10,6 +10,7 @@ import shutil
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
+# Prepare Image = formats the input image into the expected format
 def prepare_image(img_name):
     IMG_HEIGHT = 150
     IMG_WIDTH = 150
