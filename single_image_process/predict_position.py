@@ -36,13 +36,3 @@ def predict_image(img):
     prediction = np.argmax(new_model.predict(
         [prepare_image(img)]), axis=-1)
     print(category_names[prediction[0]])
-
-
-# for i in range(1, 17):
-#     fbase = sys.argv[3].split('.')[0]
-#     img = sys.argv[2] + '/' + fbase + '_' + str(i) + '.jpg'
-#     print('Postion: ' + str(i))
-#     predict_image(img)
-#     # p1 = multiprocessing.Process(target=predict_image(img))
-#     # p1.start()
-# # print(p1)

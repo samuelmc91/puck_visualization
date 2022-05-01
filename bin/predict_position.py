@@ -10,6 +10,7 @@ import shutil
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
+# Formating the image
 def prepare_image(img_name):
     IMG_HEIGHT = 150
     IMG_WIDTH = 150
@@ -21,19 +22,22 @@ def prepare_image(img_name):
         (1, IMG_HEIGHT, IMG_WIDTH, 3))
     return image_reshape
 
-
+# Prediction method
 def predict_image(new_image, inner_dir, root_dir):
+    # Removing warnings from tensorflow
     tf.get_logger().setLevel('ERROR')
     category_names = ['Empty', 'Straight', 'Tilted']
     model_dir = os.path.join(root_dir, 'models')
     model_name = 'puck_visualization_model_Apr_26_2021.h5'
     model = os.path.join(model_dir,model_name)
     dir_name = {}
+    # Making the category directories for sorting
     for category_name in category_names:
         new_dir = os.path.join(inner_dir, category_name)
         os.system('mkdir -p ' + new_dir)
         dir_name[category_name] = new_dir
 
+    # Predicting the image
     print('Model Used: {}'.format(model))
     print('Predicting image: {}'.format(new_image))
     new_model = load_model(model)

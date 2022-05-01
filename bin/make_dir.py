@@ -5,6 +5,7 @@ import getpass
 import random
 import subprocess
 
+# Make daily directory by date
 def make_daily_dir(IMAGE_DIR):
     today = date.today().strftime('%b_%d_%Y')
     todays_dir = IMAGE_DIR + 'puckSnap_' + today
@@ -23,6 +24,7 @@ def make_daily_dir(IMAGE_DIR):
 
     return todays_dir
 
+# Make daily directory by user
 def make_user_dir(IMAGE_DIR):
     epics.PV('XF:17IDB-ES:AMX{Cam:14}JPEG1:FileNumber').put(1)
             
@@ -42,6 +44,7 @@ def make_user_dir(IMAGE_DIR):
 
     return tmp_dir
 
+# Make inner dir for croped images
 def make_inner_dir(todays_dir):
     user_name = getpass.getuser()
     inner_dir = user_name + '_puckSnap_' + str(random.randint(11111, 99999))

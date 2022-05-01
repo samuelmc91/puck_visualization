@@ -64,7 +64,7 @@ class Watcher:
                 p1.start()
             except Exception as e:
                 print('Prediction Failed: {}'.format(e))
-            # A fifteen second wait to allow conditions to change
+            # A fifty second wait to allow conditions to change
             time.sleep(0.5)
         self.post_change()
 
